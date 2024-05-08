@@ -35,3 +35,25 @@ FullStackOpen | Part 1 | Anecdotes | Exercise 1.12 : https://youtu.be/oDYrXrnKvN
 FullStackOpen | Part 1 | Anecdotes | Exercise 1.13 : https://youtu.be/dt4qzeM0VwI
 
 FullStackOpen | Part 1 | Anecdotes | Exercise 1.14 : https://youtu.be/dnIDtytV8NQ
+
+FullStackOpen | Part 2 | CourseInfo| Exercise 2.1 : https://youtu.be/ujBQMdxXp3Y
+
+FullStackOpen | Part 2 | CourseInfo | Exercises 2.2\_&_2.3 : https://youtu.be/etw7ZYGNNl4
+
+FullStackOpen | Part 2 | CourseInfo | Exercise 2.4 : https://youtu.be/OqCKLUXumAw
+
+FullStackOpen | Part 2 | CourseInfo | Exercise 2.5 : https://youtu.be/z3-4-Fy75As
+
+FullStackOpen | Part 2 | PhoneBook | Exercise 2.6 : https://youtu.be/RGz8nm-VCsc
+
+FullStackOpen | Part 2 | PhoneBook | Exercise 2.7 : https://youtu.be/JSTCG5ytp74
+
+FullStackOpen | Part 2 | PhoneBook | Exercise 2.8 : https://youtu.be/NwK8qPv3384
+
+FullStackOpen | Part 2 | PhoneBook | Exercise 2.9 : https://youtu.be/dvfI83q-cgA
+
+FullStackOpen | Part 2 | PhoneBook | Exercise 2.10 : https://youtu.be/sK2NV3v7pCY
+
+FullStackOpen | Part 2 | PhoneBook | Exercise 2.11(a) : https://youtu.be/SOPOGLa_2j8
+
+FullStackOpen | Part 2 | PhoneBook | Exercise 2.11(b) : https://youtu.be/ijfZzPqpJdA

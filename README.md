@@ -67,3 +67,5 @@ FullStackOpen | Part 2 | PhoneBook | Exercise 2.14 : https://youtu.be/snfa43CFIp
 FullStackOpen | Part 2 | PhoneBook | Exercise 2.14(b) : https://youtu.be/ESqunSX8yG0
 
 FullStackOpen | Part 2 | PhoneBook | Exercise 2.15 : https://youtu.be/y-f_5xUUkvs
+
+FullStackOpen | Part 2 | PhoneBook | Exercise 2.16 : https://youtu.be/HIij47u21as

@@ -79,3 +79,11 @@ FullStackOpen | Part 2 | PhoneBook | Exercise 2.18(b) : https://youtu.be/8S6jYsD
 FullStackOpen | Part 2 | PhoneBook | Exercise 2.19 : https://youtu.be/MENJIj1f48Q
 
 FullStackOpen | Part 2 | PhoneBook | Exercise 2.20 : https://youtu.be/ChndMlgDcIU
+
+FullStackOpen | Part 3 | PhoneBook_Backend | Exercise 3.1 : https://youtu.be/w2GX2zCcAYQ
+
+FullStackOpen | Part 3 | PhoneBook_Backend | Exercise 3.2 : https://youtu.be/uzZRFul7REo
+
+FullStackOpen | Part 3 | PhoneBook_Backend | Exercise 3.3 : https://youtu.be/fBJhZeEvaCw
+
+FullStackOpen | Part 3 | PhoneBook_Backend | Exercise 3.4 : https://youtu.be/MrSc7yPpCy0

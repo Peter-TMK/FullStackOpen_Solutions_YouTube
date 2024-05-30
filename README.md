@@ -87,3 +87,13 @@ FullStackOpen | Part 3 | PhoneBook_Backend | Exercise 3.2 : https://youtu.be/uzZ
 FullStackOpen | Part 3 | PhoneBook_Backend | Exercise 3.3 : https://youtu.be/fBJhZeEvaCw
 
 FullStackOpen | Part 3 | PhoneBook_Backend | Exercise 3.4 : https://youtu.be/MrSc7yPpCy0
+
+FullStackOpen | Part 3 | PhoneBook_Backend | Exercise 3.5 : https://youtu.be/Ib3gPtU-P6s
+
+FullStackOpen | Part 3 | PhoneBook_Backend | Exercise 3.6 : https://youtu.be/JkNi6BHeaEM
+
+FullStackOpen | Part 3 | PhoneBook_Backend | Exercise 3.7 : https://youtu.be/5JaSe-PIJf4
+
+FullStackOpen | Part 3 | PhoneBook_Backend | Exercise 3.8 : https://youtu.be/tnewuUN0_lo
+
+FullStackOpen | Part 3 | PhoneBook_Backend | Exercise 3.9 : https://youtu.be/omOgkpvcl4c

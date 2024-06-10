@@ -6,6 +6,10 @@ Check out my "Daily Code Challenges" with JavaScript : https://youtube.com/playl
 
 FullStackOpen | A brief Intro : https://youtu.be/XlrrpEk_wYw?si=2poq-pJz2irkqjO8
 
+FullStackOpen | A quick update : https://youtu.be/ynfSoOnlkDg
+
+FullStackOpen | Part 0 | sequenceDiagram | Exercise 0.4 - 0.6 : https://youtu.be/Mx47D3W_D9w
+
 FullStackOpen | Part 1 | CourseInfo | Exercise 1.1a : https://youtu.be/rGdQNgZW-0I?si=nuCChAH7jdJfa-GJ
 
 FullStackOpen | Part 1 | CourseInfo | Exercise 1.1b : https://youtu.be/cyFeGDM8ZgA?si=9Hi-huae6vi3xJl1
@@ -97,3 +101,36 @@ FullStackOpen | Part 3 | PhoneBook_Backend | Exercise 3.7 : https://youtu.be/5Ja
 FullStackOpen | Part 3 | PhoneBook_Backend | Exercise 3.8 : https://youtu.be/tnewuUN0_lo
 
 FullStackOpen | Part 3 | PhoneBook_Backend | Exercise 3.9 : https://youtu.be/omOgkpvcl4c
+
+FullStackOpen | Part 3 | PhoneBook_Backend | Exercise 3.10 : https://youtu.be/56zTxLndV0I
+
+```mermaid
+sequenceDiagram
+participant browser
+participant server
+
+
+    browser->>server: GET https://studies.cs.helsinki.fi/exampleapp/notes
+    activate server
+    server-->>browser: HTML document
+    deactivate server
+
+    browser->>server: GET https://studies.cs.helsinki.fi/exampleapp/main.css
+    activate server
+    server-->>browser: the css file
+    deactivate server
+
+    browser->>server: GET https://studies.cs.helsinki.fi/exampleapp/main.js
+    activate server
+    server-->>browser: the JavaScript file
+    deactivate server
+
+    Note right of browser: The browser starts executing the JavaScript code that fetches the JSON from the server
+
+    browser->>server: GET https://studies.cs.helsinki.fi/exampleapp/data.json
+    activate server
+    server-->>browser: [{ "content": "HTML is easy", "date": "2023-1-1" }, ... ]
+    deactivate server
+
+    Note right of browser: The browser executes the callback function that renders the notes
+```

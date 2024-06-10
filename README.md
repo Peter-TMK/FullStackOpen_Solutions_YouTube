@@ -6,6 +6,10 @@ Check out my "Daily Code Challenges" with JavaScript : https://youtube.com/playl
 
 FullStackOpen | A brief Intro : https://youtu.be/XlrrpEk_wYw?si=2poq-pJz2irkqjO8
 
+FullStackOpen | A quick update : https://youtu.be/ynfSoOnlkDg
+
+FullStackOpen | Part 0 | sequenceDiagram | Exercise 0.4 - 0.6 : https://youtu.be/Mx47D3W_D9w
+
 FullStackOpen | Part 1 | CourseInfo | Exercise 1.1a : https://youtu.be/rGdQNgZW-0I?si=nuCChAH7jdJfa-GJ
 
 FullStackOpen | Part 1 | CourseInfo | Exercise 1.1b : https://youtu.be/cyFeGDM8ZgA?si=9Hi-huae6vi3xJl1

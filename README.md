@@ -104,6 +104,10 @@ FullStackOpen | Part 3 | PhoneBook_Backend | Exercise 3.9 : https://youtu.be/omO
 
 FullStackOpen | Part 3 | PhoneBook_Backend | Exercise 3.10 : https://youtu.be/56zTxLndV0I
 
+FullStackOpen | Part 3 | PhoneBook_Backend | Exercise 3.11 : https://youtu.be/uBqMEJC-pe0
+
+FullStackOpen | Part 3 | PhoneBook_Backend | Exercise 3.12 : https://youtu.be/93G1E2r9gN8
+
 ```mermaid
 sequenceDiagram
 participant browser

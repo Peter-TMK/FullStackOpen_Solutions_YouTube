@@ -108,6 +108,18 @@ FullStackOpen | Part 3 | PhoneBook_Backend | Exercise 3.11 : https://youtu.be/uB
 
 FullStackOpen | Part 3 | PhoneBook_Backend | Exercise 3.12 : https://youtu.be/93G1E2r9gN8
 
+FullStackOpen | Part 3 | PhoneBook_Backend | Exercise 3.13 : https://youtu.be/cA7MJ7Lo8Tg
+
+FullStackOpen | Part 3 | PhoneBook_Backend | Exercise 3.14 : https://youtu.be/1OzPFX0YVDc
+
+FullStackOpen | Part 3 | PhoneBook_Backend | Exercise 3.15 : https://youtu.be/ePsXWmEnJho
+
+FullStackOpen | Part 3 | PhoneBook_Backend | Exercise 3.16 : https://youtu.be/MbK2ztjrO7o
+
+FullStackOpen | Part 3 | PhoneBook_Backend | Exercise 3.17 : https://youtu.be/UjBxYy8OByw
+
+FullStackOpen | Part 3 | PhoneBook_Backend | Exercise 3.18 : https://youtu.be/0maloyt6rsg
+
 ```mermaid
 sequenceDiagram
 participant browser

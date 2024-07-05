@@ -75,13 +75,13 @@ const App = () => {
     event.preventDefault();
     console.log(event.target);
 
-    const nameExists = persons.some((person) => person.name === newName);
+    // const nameExists = persons.some((person) => person.name === newName);
 
-    if (nameExists) {
-      alert(`${newName} is already added to phonebook`);
-      setNewName("");
-      return;
-    }
+    // if (nameExists) {
+    //   alert(`${newName} is already added to phonebook`);
+    //   setNewName("");
+    //   return;
+    // }
 
     const nameObject = {
       // id: persons.length + 1,

@@ -87,7 +87,7 @@ const App = () => {
 
     if (nameExists) {
       const confirmed = window.confirm(
-        `${nameExists.name} is already added to phonebook`
+        `${nameExists.name} is already added to phonebook, do you wish to update?`
       );
 
       if (!confirmed) {

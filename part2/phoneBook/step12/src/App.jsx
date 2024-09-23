@@ -154,8 +154,10 @@ const App = () => {
           }, 4000);
         })
         .catch((error) => {
-          console.error("Error updating the number: ", error.message);
-          alert("Error updating the number");
+          setErrorMessage(error.response.data.error);
+          setTimeout(() => {
+            setErrorMessage("");
+          }, 4000);
         });
     }
     setNewName("");
